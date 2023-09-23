@@ -2,7 +2,7 @@
 .container{
 	border:2px solid black;
 	width:500px;
-	
+	padding:20px;
 	background-color:lightgray;
 	border-radius:30px;
 	text-align:center;
